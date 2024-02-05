@@ -65,3 +65,7 @@ img {
     display: grid;
     gap: 20px;
 }
+.projectObjects {
+    display: flex;
+    justify-content: space-around;
+}
