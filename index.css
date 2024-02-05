@@ -58,3 +58,10 @@ img {
 .margins {
     margin: 15px 0;
 }
+.location {
+    color: #7B7B7B;
+}
+.experienceObjects{
+    display: grid;
+    gap: 20px;
+}
