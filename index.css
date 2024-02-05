@@ -3,6 +3,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    cursor: pointer;
 }
 ul {
     padding: 0;
