@@ -1,0 +1,47 @@
+a {
+    all: unset;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+.file {
+    max-width: 1400px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 20px;
+}
+.firstColumn {
+    max-width: 500px;
+}
+img {
+    width: 150px;
+    height: 150px;
+    border: solid 1px #ac77ea;
+    border-radius: 100px;
+}
+.mainInfo {
+    height: 100%;
+}
+.name {
+    font-size: 28px;
+    color: cornflowerblue;
+    font-weight: 800;
+}
+.list {
+    display: flex;
+    gap: 10px;
+}
+.miniTitle {
+    font-size: 18px;
+    font-weight: 800;
+    color: #ac77ea;
+}
+.description {
+    font-size: 16px;
+    color: #7B7B7B;
+}
+.personalInfo {
+    display: flex;
+}
